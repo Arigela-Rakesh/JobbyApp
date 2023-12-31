@@ -1,0 +1,33 @@
+.employee-container {
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+}
+.employee-heading {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+.employees-list {
+  list-style-type: none;
+}
+.hr-line {
+  border: 1px solid #475569;
+  margin-top: 15px;
+}
+.input {
+  width: 20px;
+  margin-top: 10px;
+}
+.list-item-container {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.label-element {
+  color: white;
+  padding-left: 10px;
+}
+.container {
+  width: 25vw;
+}

@@ -1,0 +1,15 @@
+.skill-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+.skill-logo {
+  width: 60px;
+}
+.name {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: 20px;
+}

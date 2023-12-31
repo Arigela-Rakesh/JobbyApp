@@ -1,0 +1,35 @@
+.nav-container {
+  background-color: #2c364c;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 15px;
+}
+.nav-details-container {
+  display: flex;
+  list-style-type: none;
+}
+.website-logo {
+  height: 50px;
+  width: 80px;
+}
+.link-container {
+  text-decoration: none;
+}
+.nav-details {
+  color: white;
+  margin-right: 8px;
+}
+.logout-button {
+  width: 70px;
+  background-color: blue;
+  color: white;
+  outline: none;
+  height: 30px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
